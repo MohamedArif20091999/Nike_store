@@ -5,4 +5,4 @@ This project is a simple store site for *(Nike-Air model)* it includes some comm
 ## Take a look at the home page.
 
 
-![Screenshot](nike-snap.png)
+![nike-snap](nike-snap.PNG)
